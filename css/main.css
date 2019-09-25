@@ -2,3 +2,19 @@ body
 {
   background-color:#32DCD4;
 }
+      h1{
+      color:red;
+      font-family:courier;
+      }
+      
+      body{
+      font-family:Helvetica;
+      }
+      .image{
+      border-style:dashed;
+      
+      }
+      h2{
+      color:orange;
+      
+      }
