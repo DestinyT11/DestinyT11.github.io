@@ -27,7 +27,7 @@ body
      #span2{
        background-color:pink;
       }
-ol:hover::after{
+li:hover::after{
       color:red;
         background-color:purple;
         Content:"Hi"
