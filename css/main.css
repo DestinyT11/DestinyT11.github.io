@@ -27,3 +27,16 @@ body
      #span2{
        background-color:pink;
       }
+
+img#dog{
+  display:block;
+  width: 300px;
+  border:red dotted 3px;
+  padding: 6px;
+  margin: auto;
+}
+
+h1{
+    text-align:center;
+  text-decoration:underline;
+}
