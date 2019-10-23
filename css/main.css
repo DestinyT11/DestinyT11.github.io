@@ -14,10 +14,11 @@ body
       border-style:dashed;
       
       }
-      h2:active{
+      h2:hover::after{
       color:red;
         background-color:purple;
-      
+        Content:"Hi"
+      font-size:150%;
       }
      #div1{
      background-color:white;
