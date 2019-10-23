@@ -28,7 +28,7 @@ body
        background-color:pink;
       }
 
-img#dog{
+  img{
   display:block;
   width: 300px;
   border:red dotted 3px;
