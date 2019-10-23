@@ -14,11 +14,9 @@ body
       border-style:dashed;
       
       }
-      h2:hover::after{
+      h2{
       color:red;
-        background-color:purple;
-        Content:"Hi"
-      font-size:150%;
+        
       }
      #div1{
      background-color:white;
@@ -29,6 +27,13 @@ body
      #span2{
        background-color:pink;
       }
+ol:hover::after{
+      color:red;
+        background-color:purple;
+        Content:"Hi"
+      font-size:150%;
+}
+  
 
   img{
   display:block;
