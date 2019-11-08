@@ -20,3 +20,19 @@ li:hover::after{
   font-size:100%;
   content:"This is an amazing program"
 }
+.about{
+  font-family: Impact 
+}
+img.filtered-image{
+    animation: invertFilter 9s forwards;
+}
+
+@keyframes invertFilter {
+    from {
+        filter: invert(0%)
+    }
+    
+    to{
+        filter: invert(100%)
+    }
+}
