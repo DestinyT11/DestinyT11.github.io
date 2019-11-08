@@ -29,10 +29,9 @@ body
        background-color:pink;
       }
 li:hover::after{
-      color:red;
-        background-color:purple;
-        Content:"Hi"
-      font-size:150%;
+  background-color:white;
+  font-size:100%;
+  content:"hi"
 }
   
 
