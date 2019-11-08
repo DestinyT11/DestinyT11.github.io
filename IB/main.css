@@ -5,3 +5,18 @@ h2{
 body{
   background-color:#A0C7CD;
 }
+img{
+  display: block;
+  height: 280px;
+  border: white dotted 3px;
+  padding: 6x;
+  margin: auto;
+}
+#kids{
+  text-align:center;
+}
+li:hover::after{
+  background-color:white;
+  font-size:100%;
+  content:"This is an amazing program"
+}
