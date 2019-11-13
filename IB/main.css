@@ -24,7 +24,7 @@ li:hover::after{
   font-family: Impact 
 }
 img.filtered-image{
-    animation: invertFilter 2s forwards;
+    animation: invertFilter 5s forwards;
 }
 
 @keyframes invertFilter {
